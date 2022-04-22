@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 - 📫 You can email me at gupta.shivani7898@gmail.com. I am also on Twitter and LinkedIn.
 
 
-### Technical Skills
+## Technical Skills
 
 **Javascript** | **HTML** | **CSS**
 
