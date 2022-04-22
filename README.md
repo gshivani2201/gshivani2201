@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
 **Javascript** | **HTML** | **CSS**
 
 
-[![Shivani's GitHub stats](https://github-readme-stats.vercel.app/api?username=gshivani2201&show_icons=true&text_color=#ffffff&bg_color=#0d1117&hide=stars,issues)](https://github.com/gshivani2201/github-readme-stats)
+[![Shivani's GitHub stats](https://github-readme-stats.vercel.app/api?username=gshivani2201&show_icons=true&text_color=ffffff&bg_color=0d1117&hide=stars,issues)](https://github.com/gshivani2201/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gshivani2201&langs_count=3&layout=compact)](https://github.com/gshivani2201/github-readme-stats) 
 
