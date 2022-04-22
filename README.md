@@ -15,6 +15,7 @@ You can click the Preview link to take a look at your changes.
 - I make websites and web-applications.
 - I like reading and learning new things. 
 - I am currently learning **ReactJs**.
+- 📫 You can email me at gupta.shivani7898@gmail.com. I am also on Twitter and LinkedIn.
 
 
 ### Technical Skills
@@ -26,9 +27,3 @@ You can click the Preview link to take a look at your changes.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gshivani2201&langs_count=3&layout=compact)](https://github.com/gshivani2201/github-readme-stats) 
 
-<!-- <a href="https://github.com/gshivani2201/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=gshivani2201&count_private=true&show_icons=true&theme=tokyonight" />
-</a>
-<a href="https://github.com/gshivani2201/top-langs">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gshivani2201&langs_count=3&layout=compact" />
-</a> -->
