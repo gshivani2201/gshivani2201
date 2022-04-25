@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 # Hi there, I am Shivani 👋
 
-- I am a web frontend developer.
+- I am a frontend web developer.
 - I make websites and web-applications.
 - I like reading and learning new things. 
 - I am currently learning **ReactJs**.
