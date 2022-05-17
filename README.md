@@ -14,13 +14,12 @@ You can click the Preview link to take a look at your changes.
 - I am a frontend web developer.
 - I make websites and web-applications.
 - I like reading and learning new things. 
-- I am currently learning **ReactJs**.
 - 📫 You can email me at gupta.shivani7898@gmail.com. I am also on Twitter and LinkedIn.
 
 
 ## Technical Skills
 
-**Javascript** | **HTML** | **CSS**
+ **ReactJs** | **Javascript** | **HTML** | **CSS** 
 
 
 [![Shivani's GitHub stats](https://github-readme-stats.vercel.app/api?username=gshivani2201&show_icons=true&count_private=true&text_color=ffffff&bg_color=0d1117&hide=stars,issues)](https://github.com/gshivani2201/github-readme-stats)
