@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 
 ## Technical Skills
 
- **ReactJs** | **Javascript** | **REDUX** | **jQuery** | **HTML** | **CSS** 
+ **ReactJs** | **Javascript** | **Redux** | **jQuery** | **HTML** | **CSS** 
 
 
 [![Shivani's GitHub stats](https://github-readme-stats.vercel.app/api?username=gshivani2201&show_icons=true&count_private=true&text_color=ffffff&bg_color=0d1117&hide=stars,issues)](https://github.com/gshivani2201/github-readme-stats)
